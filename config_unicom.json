@@ -1,0 +1,13 @@
+{
+    "accounts":
+    [
+        {
+            "phone": "13288888888",
+            "url": "isRemberPwd=true&deviceId=000000000000000&password=**********&netWay=WIFI&mobile=*******************&timestamp=20181017230801&appId=1406a14ec25d9b783bc0fd29eacd072acfdae2811573d8d00d001205217142b4&keyVersion=1&deviceBrand=unknown&areaCode=940&version=android%405.93&deviceModel=Custom%20Phone%20-%205.1.0%20-%20API%2022%20-%20768x1280&deviceOS=android5.1&deviceCode=000000000000000"
+        }
+        ,{
+            "phone": "13188888888",
+            "url": "isRemberPwd=true&deviceId=000000000000000&password=**********&netWay=WIFI&mobile=*******************&timestamp=20181017230801&appId=1406a14ec25d9b783bc0fd29eacd072acfdae2811573d8d00d001205217142b4&keyVersion=1&deviceBrand=unknown&areaCode=940&version=android%405.93&deviceModel=Custom%20Phone%20-%205.1.0%20-%20API%2022%20-%20768x1280&deviceOS=android5.1&deviceCode=000000000000000"
+        }
+    ]
+}
